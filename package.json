@@ -1,6 +1,6 @@
 {
   "name": "simple-repository",
-  "version": "1.0.2",
+  "version": "1.0.8",
   "description": "A simple repository session framework",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,10 @@
   "author": "Kedem Diamant",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^1.5.2",
     "hoek": "^2.16.3",
-    "node-uuid": "^1.4.3"
+    "nested-error-stacks": "^2.0.0",
+    "node-uuid": "^1.4.7"
   },
   "repository": {
     "type": "git",
